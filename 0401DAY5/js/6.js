@@ -19,7 +19,3 @@ for (var i = ary.length - 1; i >= 0; i--) {
 for (var i = 0; i < ary.length; i += 2) {
     console.log(ary[i]);
 }
-
-
-
-
